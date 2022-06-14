@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"Surpass And Service",
+    "description":"We aim to provide users with quality data analysis services, extracting useful information from a number of district-centric and decentralized exchanges to help users analyze the trend of token value.  At the same time, we also pay close attention to the dynamic of hot people in real time for you to prevent you from missing the opportunity to become rich",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yuaquenlay@gmail.com",
+    "phone": "555-555-5555",
+    "facebook":"https://github.com/nordicgiant2/react-nice-resume",
+    "twitter":"https://twitter.com/yauquenlay?s=09",
+    "address":{
+      "street":"Tim Baker",
+      "city":"Victoria",
+      "state":"British Columbia, V9A 1L6",
+      "zip": "(250) 793-0920"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://twitter.com/yauquenlay?s=09",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/yauquenlay?s=09",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://twitter.com/yauquenlay?s=09",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://twitter.com/yauquenlay?s=09",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://twitter.com/yauquenlay?s=09",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "subscription":[
+      {
+        "way":"Keyword",
+        "degree":"Add keywords, the whole network monitoring, instant push, always one step faster",
+        "description":"Personalized customized news, microblog, Twitter, exchange announcements, etc., once set, lifelong benefits."
+      },
+      {
+        "way":"Twitter",
+        "degree":"Add a Twitter subscription",
+        "description":"Twitter user ID, such as @elonmusk, is the string of characters following the @.  You can focus directly on the leaderboard."
+      }
+    ],
+    "monitor":[
+      {
+        "company":"Currency",
+        "title":"Monitor exchange new currency launched",
+        "description":"Select the corresponding exchange, and then input your token information, we will notify you the first time the token is listed."
+      },
+      {
+        "company":"Address",
+        "title":"Monitoring an address",
+        "description":"We will inform you as soon as any transaction information occurs at this address."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
